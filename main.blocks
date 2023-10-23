@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%cJc(g-NIM/xNipuQUSD" x="20" y="20"><statement name="HANDLER"><block type="music_playable_play" id="GS;Xf+7klqw[E,c-^emN"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="kwe=v3LW+NT,Cts=5W(4"><value name="melody"><shadow type="melody_editor" id="xm.)A^OTy5oqV4x8+^v1"><field name="melody">"- F E E E E F - "</field></shadow><block type="melody_editor" id="xR%?wQ+mjK2F#[FSiKhW"><field name="melody">"G B A G C5 B A B "</field></block></value><value name="bpm"><shadow type="math_number_minmax" id="Rt`|*j;MJLeU}cb`1DF|"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value></block></statement></block><block type="device_forever" id="%MHw4W{hV}|+uY~$I%*~" x="225" y="20"></block></xml>
